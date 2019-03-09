@@ -1,0 +1,29 @@
+[0m[0K]0;:/c/Users/Arun Pal/Desktop/Temporary_add_to_version_control[?25l
+[0;32mArun Pal@DESKTOP-2JL3HUM [0;35m [0;33m~/Desktop/Temporary_add_to_version_control[0m[0K[26G[?25h[?25l
+$[0K[3G[?25h[?25l$ c[0K[?25hd[0K~[0K/[0KD[0Ke[0Ks[0K[?25lk[0K[10G[?25h[11G[?25l$ cd~/Deskt[0K[?25h[?25lo[0K[12G[?25h[13G[?25l$ cd~/Desktop[0K[?25h/[0K[?25lt[0K[15G[?25h[16G[?25l$ cd~/Desktop/te[0K[?25hm[0Kp[0Ko[0K[?25l$ cd~/Desktop/temp[0K[20G[?25h[19G[?25l$ cd~/Desktop/tem[0K[?25h[?25l$ cd~/Desktop/te[0K[18G[?25h[17G[?25l$ cd~/Desktop/t[0K[?25h[?25l$ cd~/Desktop/[0K[?25hT[0Ke[0Km[0Kp[0Ko[0Kr[0Ka[0Kr[0Ky[0K_[0Ka[0Kd[0Kd[0K_[0Kt[0Ko[0K_[0Kv[0Ke[0Kr[0Ks[0Ki[0Ko[0Kn[0K_[0Kc[0Ko[0Kn[0Kt[0Kr[0Ko[0Kl[0K[?25l
+[0K[?25hbash: cd~/Desktop/Temporary_add_to_version_control: No such file or directory[0K[?25l
+[0K[?25h[?25l
+[0;32mArun Pal@DESKTOP-2JL3HUM [0;35m [0;33m~/Desktop/Temporary_add_to_version_control[0m[0K
+$[0K[3G[?25h[?25l$ c[0K[?25hd[0K[6G[?25l$ cd ~[0K[?25h?[0KD[0K[?25le[0K[9G[?25h[10G[?25l$ cd ~?Des[0K[10G[?25h[11G[?25l$ cd ~?Desk[0K[?25ht[0Ko[0K[?25lp[0K[14G[?25h[15G[?25l$ cd ~?Deskto[0K[?25h[?25l$ cd ~?Deskt[0K[?25h[?25l$ cd ~?Desk[0K[?25h[?25l$ cd ~?Des[0K[?25h[?25l$ cd ~?De[0K[?25h[?25l$ cd ~?D[0K[10G[?25h[9G[?25l$ cd ~?[0K[?25h[?25l$ cd ~[0K[?25h/[0KD[0Ke[0Ks[0Kk[0Kt[0K[?25lo[0K[13G[?25h[14G[?25l$ cd ~/Desktop[0K[?25h/[0KT[0Ke[0Km[0Kp[0Ko[0Kr[0Ka[0Kr[0Ky[0K_[0K[?25la[0K[26G[?25h[27G[?25l$ cd ~/Desktop/Temporary_ad[0K[?25hd[0K_[0Kt[0Ko[0K_[0Kv[0Ke[0Kr[0Ks[0Ki[0Ko[0Kn[0K_[0Kc[0Ko[0Kn[0Kt[0Kr[0Ko[0Kl[0K/[0K[?25l
+[0K[?25h[?25l
+[0;32mArun Pal@DESKTOP-2JL3HUM [0;35m [0;33m~/Desktop/Temporary_add_to_version_control[0m[0K
+$[0K[1A[69G[?25h[?25l
+[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git i[0K[?25hn[0Ki[0Kt[0K[12G[?25l$ git init G[0K[?25hi[0Kt[0Kh[0Ku[0Kb[0K.[0K[?25l
+[0K[?25hInitialized empty Git repository in C:/Users/Arun Pal/Desktop/Temporary_add_to_version_control/Github/.git[0K/[?25l
+[0K
+[0K[?25h[?25l
+[0;32mArun Pal@DESKTOP-2JL3HUM [0;35m [0;33m~/Desktop/Temporary_add_to_version_control[0m[0K
+$[0K[3G[?25h[?25l$ git[0K[7G[?25h[?25l$ git c[0K[?25ho[0Km[0Km[0Ki[0Kt[0K[14G[?25l$ git commit -[0K[?25hm[0K[17G[?25l$ git commit -m "[0K[?25hI[0Kn[0Ki[0Kt[0Ki[0Ka[0Kk[0K[?25l$ git commit -m "Initia[0K[?25hl[0K[26G[?25l$ git commit -m "Initial C[0K[?25ho[0Km[0Km[0Ki[0Kt[0K"[0K[?25l
+[0K[?25hfatal: not a git repository (or any of the parent directories): .git[0K[?25l
+[0K[?25h[?25l
+[0;32mArun Pal@DESKTOP-2JL3HUM [0;35m [0;33m~/Desktop/Temporary_add_to_version_control[0m[0K
+$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git c[0K[?25ho[0Km[0Km[0Ki[0Kt[0K[14G[?25l$ git commit -[0K[?25hm[0K[17G[?25l$ git commit -m :"[0K[?25h[?25l$ git commit -m :[0K[?25h[?25l$ git commit -m[0K[17G[?25h[16G[17G[?25l$ git commit -m "[0K[?25hI[0Kn[0Ki[0Kt[0Ki[0Ka[0Kl[0K[26G[?25l$ git commit -m "Initial C[0K[?25ho[0Km[0Km[0Ki[0Kt[0K"[0K[?25l$ git commit -m "Initial Commit[0K[?25h[?25l$ git commit -m "Initial Commi[0K[?25h[?25l$ git commit -m "Initial Comm[0K[?25h[?25l$ git commit -m "Initial Co[0K[?25h[?25l$ git commit -m "Initial C[0K[?25h[?25l$ git commit -m "Initial[0K[26G[?25h[25G[?25l$ git commit -m "Initi[0K[?25h[?25l$ git commit -m "Init[0K[?25h[?25l$ git commit -m "In[0K[?25h[?25l$ git commit -m "I[0K[?25h[?25l$ git commit -m "[0K[19G[?25h[18G[?25l$ git commit -m[0K[17G[?25h[16G[?25l$ git commit -[0K[?25h[?25l$ git commit[0K[14G[?25h[13G[?25l$ git commi[0K[?25h[?25l$ git comm[0K[?25h[?25l$ git com[0K[?25h[?25l$ git co[0K[?25h[?25l$ git c[0K[?25h[?25l$ git[0K[7G[?25h[?25l$ git a[0K[?25hd[0Kd[0K[?25l
+[0K[?25hfatal: not a git repository (or any of the parent directories): .git[0K[?25l
+[0K[?25h[?25l
+[0;32mArun Pal@DESKTOP-2JL3HUM [0;35m [0;33m~/Desktop/Temporary_add_to_version_control[0m[0K
+$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git i[0K[?25hn[0K[?25li[0K[9G[?25h[10G[?25l$ git init[0K[?25h[?25l
+[0K[?25hInitialized empty Git repository in C:/Users/Arun Pal/Desktop/Temporary_add_to_version_control/.git/[0K[?25l
+[0K[?25h[?25l
+[0;32mArun Pal@DESKTOP-2JL3HUM [0;35m [0;33m~/Desktop/Temporary_add_to_version_control[0;36m (master)[0m[0K[27G[?25h[?25l
+$[0K[3G[?25h[?25l$ gi[0K[?25ht[0K[7G[?25l$ git a[0K[?25hd[0Kd[0K[11G[?25l$ git add .[0K[?25h[?25l
+[0K[?25h
